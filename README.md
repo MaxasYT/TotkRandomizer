@@ -48,5 +48,4 @@ Feel free to contribute in any way you can! I'm very open to suggestions and ide
 If I forgot your name, let me know and I'll add you!
 
 ## Copyright and license
-
 The code is released under the [MIT](https://github.com/MelonSpeedruns/TotkRandomizer/blob/main/LICENSE) license.
